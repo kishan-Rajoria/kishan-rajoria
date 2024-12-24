@@ -67,10 +67,12 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 ## 🖼️ **Gallery**
 
 ### **Machine Troubleshooting Chatbot**
-![Chatbot](https://via.placeholder.com/800x400?text=Machine+Troubleshooting+Chatbot)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ### **AI-Enabled Drone in Action**
-![Drone](https://via.placeholder.com/800x400?text=AI-Enabled+Drone)
+![alt text](image-2.png)
+
 
 ---
 
