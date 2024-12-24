@@ -78,9 +78,9 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 
 ## 📫 **Let's Connect!**
 
-- **LinkedIn**: [Kishan's LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email**: [kishan@example.com](mailto:kishan@example.com)
-- **GitHub**: [Kishan's GitHub](https://github.com/YourGitHubUsername)
+- **LinkedIn**: [Kishan's LinkedIn](https://www.linkedin.com/in/kishan-rajoria-9a718775/?profileId=ACoAAA_dmM8BE9p8AAAQG2t2BT48iCPqYKzcdT4)
+- **Email**: [kishan@example.com](mailto:kishanrajoria@gmail.com)
+- **GitHub**: [Kishan's GitHub](https://github.com/kishan-rajoria)
 
 ---
 
