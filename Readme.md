@@ -2,7 +2,7 @@
 
 ## 🌟 **About Me**
 
-Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of experience** in advanced technologies like **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**. My mission is to build innovative solutions that harness the power of data and AI to solve real-world problems. 🚀
+Hi there! I'm **Kishan**, a Senior Data Scientist and Electrical Engineer with over **10+ years of experience** in advanced technologies like **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**. My mission is to bridge the gap between electrical engineering and AI to solve real-world challenges. 🚀
 
 ---
 
@@ -46,6 +46,11 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 - **Tech Stack**: Custom **Language Models**, Local Data Handling
 - **Impact**: Enhanced privacy and user convenience.
 
+### **4. Renewable Energy Forecasting** 🌞🌬️
+- **Objective**: Predict solar and wind power generation.
+- **Tech Stack**: **MlFlow**, **AWS**, **ModelArts**
+- **Impact**: Improved resource allocation and energy grid management.
+
 ---
 
 ## 🌟 **Achievements**
@@ -53,6 +58,7 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 - 🌟 **Developed AI models** for time series forecasting with 90%+ accuracy.
 - 🌍 **Deployed scalable AI systems** in cloud environments like AWS and Huawei ModelArts.
 - 🏆 **Recognized for innovation** in AI-driven industrial automation.
+- 💡 **Led cross-disciplinary teams** in electrical engineering and AI solutions.
 
 ---
 
@@ -67,19 +73,24 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 ## 🖼️ **Gallery**
 
 ### **Machine Troubleshooting Chatbot**
-![alt text](image.png)
-![alt text](image-1.png)
+![Chatbot](https://via.placeholder.com/800x400?text=Machine+Troubleshooting+Chatbot)
 
 ### **AI-Enabled Drone in Action**
-![alt text](image-2.png)
+![Drone](https://via.placeholder.com/800x400?text=AI-Enabled+Drone)
 
+---
+
+## 🛠️ **Interactive Widgets**
+
+- ![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+- **Latest GitHub Activity**: [GitHub Activity Widget](https://github.com/jamesgeorge007/github-activity-readme)
 
 ---
 
 ## 📫 **Let's Connect!**
 
 - **LinkedIn**: [Kishan's LinkedIn](https://www.linkedin.com/in/kishan-rajoria-9a718775/?profileId=ACoAAA_dmM8BE9p8AAAQG2t2BT48iCPqYKzcdT4)
-- **Email**: [kishan@example.com](mailto:kishanrajoria@gmail.com)
+- **Email**: [kishanrajoria@gmail.com](mailto:kishanrajoria@gmail.com)
 - **GitHub**: [Kishan's GitHub](https://github.com/kishan-rajoria)
 
 ---
@@ -89,4 +100,3 @@ Hi there! I'm **Kishan**, a Senior Data Scientist with over **10+ years of exper
 > "Data is the new oil, and AI is the engine driving innovation."
 
 Thank you for stopping by! Don't forget to ⭐ **Star** and 🍴 **Fork** my repositories if you find them useful. Together, let’s build the future! 🚀
-
