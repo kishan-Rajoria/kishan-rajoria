@@ -72,22 +72,44 @@ Hi there! I'm **Kishan**, a Senior Data Scientist and Electrical Engineer with o
 
 ## 🖼️ **Gallery**
 
-### **Machine Troubleshooting Chatbot**
-<table>
-  <tr>
-    <td><img src="image.png" alt="Image 1" width="200"></td>
-    <td><img src="image-1.png" alt="Image 1" width="200"></td>
-  </tr>
+### **Machine Troubleshooting Chatbot**  
+<table>  
+  <tr>  
+    <td align="center">  
+      <img src="image.png" alt="Chatbot Interface 1" width="250">  
+      <p>Chatbot Interface - Screen 1</p>  
+    </td>  
+    <td align="center">  
+      <img src="image-1.png" alt="Chatbot Interface 2" width="250">  
+      <p>Chatbot Interface - Screen 2</p>  
+    </td>  
+  </tr>  
+</table>  
 
-### **AI-Enabled Drone in Action**
-<table>
-  <tr>
-    <td><img src="image-2.png" alt="Image 1" width="200"></td>
-    <td><img src="image-3.png" alt="Image 1" width="200"></td>
-    <td><img src="image-4.png" alt="Image 1" width="200"></td>
-    <td><img src="image-5.png" alt="Image 1" width="200"></td>
-  </tr>
 ---
+
+### **AI-Enabled Drone in Action**  
+<table>  
+  <tr>  
+    <td align="center">  
+      <img src="image-2.png" alt="Drone Assembly" width="200">  
+      <p>Drone Assembly</p>  
+    </td>  
+    <td align="center">  
+      <img src="image-3.png" alt="Telemetry Features" width="200">  
+      <p>Telemetry Features</p>  
+    </td>  
+    <td align="center">  
+      <img src="image-4.png" alt="Autonomous Flight" width="200">  
+      <p>Autonomous Flight</p>  
+    </td>  
+    <td align="center">  
+      <img src="image-5.png" alt="Real-time Monitoring" width="200">  
+      <p>Real-time Monitoring</p>  
+    </td>  
+  </tr>  
+</table>  
+
 
 ## 🛠️ **Interactive Widgets**
 
