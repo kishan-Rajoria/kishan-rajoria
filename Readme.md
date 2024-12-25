@@ -73,11 +73,20 @@ Hi there! I'm **Kishan**, a Senior Data Scientist and Electrical Engineer with o
 ## 🖼️ **Gallery**
 
 ### **Machine Troubleshooting Chatbot**
-![Chatbot](https://via.placeholder.com/800x400?text=Machine+Troubleshooting+Chatbot)
+<table>
+  <tr>
+    <td><img src="image.png" alt="Image 1" width="200"></td>
+    <td><img src="image-1.png" alt="Image 1" width="200"></td>
+  </tr>
 
 ### **AI-Enabled Drone in Action**
-![Drone](https://via.placeholder.com/800x400?text=AI-Enabled+Drone)
-
+<table>
+  <tr>
+    <td><img src="image-2.png" alt="Image 1" width="200"></td>
+    <td><img src="image-3.png" alt="Image 1" width="200"></td>
+    <td><img src="image-4.png" alt="Image 1" width="200"></td>
+    <td><img src="image-5.png" alt="Image 1" width="200"></td>
+  </tr>
 ---
 
 ## 🛠️ **Interactive Widgets**
